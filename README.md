@@ -175,3 +175,14 @@ You receive this token when you log in successfully.
 |----------|-----------|
 | `Authorization` | `Bearer <your_token>` |
 
+---
+
+## 🌐 Deployment
+
+The backend API has been successfully deployed on **Render**.
+
+### 🔗 Live API Endpoint
+👉 [https://job-application-portal-mm47.onrender.com](https://job-application-portal-mm47.onrender.com)
+
+
+
